@@ -8,6 +8,12 @@
 
 A template for building OpenWrt with GitHub Actions
 
+## Modified
+
+- Change default IP to 10.172.88.1
+- Chage default theme to Argon
+- Add several new plugins
+
 ## Usage
 
 - Click the [Use this template](https://github.com/P3TERX/Actions-OpenWrt/generate) button to create a new repository.
