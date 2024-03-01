@@ -8,9 +8,16 @@
 
 A template for building OpenWrt with GitHub Actions
 
+## Attention
+
+Only tested on my own device:
+- CPU: Inel Celeron J4125
+- Ethernet: Intel i226-v
+
 ## Modified
 
 - Change default IP to 10.172.88.1
+- Enable IPv6 Support
 - Chage default theme to Argon
 - Add several new plugins
 
