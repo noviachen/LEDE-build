@@ -11,8 +11,8 @@ A template for building OpenWrt with GitHub Actions
 ## Attention
 
 Only tested on my own device:
-- CPU: Inel Celeron J4125
-- Ethernet: Intel i226-v
+- CPU: Intel Celeron J4125
+- Ethernet: Intel i226-v * 4
 
 ## Modified
 
