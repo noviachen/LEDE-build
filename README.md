@@ -17,13 +17,15 @@ Only tested on my own device:
 ## Modified
 
 - Change default IP to 10.172.88.1
-- Enable IPv6 Support
 - Chage default theme to Argon
+- Enable IPv6 Support
+- Disable automount and autosamba
 - Minimum Luci applications：
   - Firewall
+  - Pushbot
   - UPnP
   - WoL
-  - No others
+  - Zerotier
 
 ## Usage
 
