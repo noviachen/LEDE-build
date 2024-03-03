@@ -16,7 +16,7 @@ Only tested on my own device:
 
 ## Modified
 
-- Change default IP to 10.172.88.1
+- Change default IP to 192.168.88.1
 - Chage default theme to Argon
 - Enable IPv6 Support
 - Disable automount and autosamba
