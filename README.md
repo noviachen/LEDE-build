@@ -21,9 +21,11 @@ Only tested on my own device:
 - Enable IPv6 Support
 - Disable automount and autosamba
 - Minimum Luci applications：
+  - Filetransfer
   - Firewall
   - Pushbot
   - UPnP
+  - Vsftpd
   - WoL
   - Zerotier
 
