@@ -23,6 +23,7 @@ Only tested on my own device:
 - Minimum Luci applications：
   - Firewall
   - Pushbot
+  - udpxy
   - UPnP
   - WoL
   - Zerotier
