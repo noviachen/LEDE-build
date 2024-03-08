@@ -22,10 +22,12 @@ Only tested on my own device:
 - Disable automount and autosamba
 - Minimum Luci applications：
   - Firewall
+  - nlbwmon
   - Pushbot
   - udpxy
   - UPnP
   - WoL
+  - wrtbwmon
   - Zerotier
 
 ## Usage
