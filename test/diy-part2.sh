@@ -23,5 +23,4 @@ sed -i "s/luci-theme-bootstrap/luci-theme-argon-v1/g" feeds/luci/collections/luc
 sed -i "s/OpenWrt /LEDE build $(TZ=UTC-8 date "+%Y.%m.%d") @ OpenWrt /g" package/lean/default-settings/files/zzz-default-settings
 
 # 使用 jerrykuku/luci-theme-argon v1.x.x 主题
-rm -rf package/lean/luci-theme-argon
 git clone -b 18.06 https://github.com/jerrykuku/luci-theme-argon.git package/lean/luci-theme-argon-v1
