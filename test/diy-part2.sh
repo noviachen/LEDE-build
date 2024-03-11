@@ -21,5 +21,5 @@ sed -i "s/luci-theme-bootstrap/luci-theme-argon-v1/g" feeds/luci/collections/luc
 # 修改默认主机名（需要取消下面的注释）
 #sed -i '/uci commit system/i\uci set system.@system[0].hostname='LEDE'' package/lean/default-settings/files/zzz-default-settings
  
-# 加入编译者信息（需要取消下面的注释）
+# 加入编译者信息
 sed -i "s/OpenWrt /LEDE build $(TZ=UTC-8 date "+%Y.%m.%d") @ OpenWrt /g" package/lean/default-settings/files/zzz-default-settings
