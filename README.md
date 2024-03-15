@@ -12,9 +12,10 @@ A template for building OpenWrt with GitHub Actions
 本固件为作者自用，不保证适用于所有相同或相似设备，如有因刷入从本仓库下载的固件或者根据本仓库代码生成的固件导致设备损坏的，作者不承担任何责任。
 
 ## 适用设备
-- 软路由x86_64
-- 小米路由器 3
-- 小米路由器 3G
+- 软路由 x86_64
+- 小米路由器 3（xiaomi_miwifi-r3）
+- 小米路由器 3G（xiaomi_mi-router-3g）
+- ~~斐讯 K2（phicomm_psg1218a）~~
 
 ## 自用固件定制内容
 - 修改管理IP为 192.168.88.1（密码仍为 password）
