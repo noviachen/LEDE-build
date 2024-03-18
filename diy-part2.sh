@@ -23,6 +23,3 @@ sed -i "s/luci-theme-bootstrap/luci-theme-argon-v1/g" feeds/luci/collections/luc
  
 # 加入编译者信息
 sed -i "s/OpenWrt /LEDE build $(TZ=UTC-8 date "+%Y.%m.%d") @ OpenWrt /g" package/lean/default-settings/files/zzz-default-settings
-
-# 新增应用过滤插件 OAF(Open App Filter)
-git clone https://github.com/destan19/OpenAppFilter.git package/OpenAppFilter
