@@ -35,6 +35,7 @@ A template for building OpenWrt with GitHub Actions
    - luci-app-wol   #WOL网络唤醒
    - luci-app-wrtbwmon  #实时流量监测
    - luci-app-zerotier  #ZeroTier内网穿透
+   - bandwidthd-pgsl  #流量统计
 - 没有其他修改了，使用 LEDE 源代码
 
 ## Usage
