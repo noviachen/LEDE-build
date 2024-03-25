@@ -23,6 +23,7 @@ A template for building OpenWrt with GitHub Actions
 - 开启 IPv6 支持
 - 关闭 automount 和 autosamba
 - 添加自用插件：
+   - luci-app-accesscontrol  #访问时间控制
    - luci-app-autoreboot  #支持计划重启      *---x86_64版本未包含*
    - luci-app-ddns   #动态域名 DNS（集成阿里DDNS客户端）      *---x86_64版本未包含*
    - luci-app-filetransfer  #文件传输（可web安装ipk包）      *---x86_64版本未包含*
