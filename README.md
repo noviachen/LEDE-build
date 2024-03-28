@@ -30,7 +30,6 @@ A template for building OpenWrt with GitHub Actions
    - luci-app-firewall   #添加防火墙
    - luci-app-nlbwmon   #网络带宽监视器
    - luci-app-pushbot  #全能推送(钉钉推送,企业微信推送,Bark,PushPlus推送)
-   - luci-app-turboacc   #Turbo ACC 网络加速(支持 Fast Path 或者 硬件 NAT)
    - luci-app-udpxy  #udpxy做组播服务器
    - luci-app-upnp   #通用即插即用UPnP（端口自动转发）
    - luci-app-wol   #WOL网络唤醒
