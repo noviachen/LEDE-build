@@ -26,7 +26,7 @@ A template for building OpenWrt with GitHub Actions
    - luci-app-accesscontrol  #访问时间控制
    - luci-app-autoreboot  #支持计划重启      *---x86_64版本未包含*
    - luci-app-ddns   #动态域名 DNS（集成阿里DDNS客户端）      *---x86_64版本未包含*
-   - luci-app-filetransfer  #文件传输（可web安装ipk包）      *---x86_64版本未包含*
+   - luci-app-filetransfer  #文件传输（可web安装ipk包）
    - luci-app-firewall   #添加防火墙
    - luci-app-nlbwmon   #网络带宽监视器
    - luci-app-pushbot  #全能推送(钉钉推送,企业微信推送,Bark,PushPlus推送)
@@ -36,7 +36,6 @@ A template for building OpenWrt with GitHub Actions
    - luci-app-wol   #WOL网络唤醒
    - luci-app-wrtbwmon  #实时流量监测
    - luci-app-zerotier  #ZeroTier内网穿透
-   - bandwidthd-pgsl  #流量统计
 - 没有其他修改了，使用 LEDE 源代码
 
 ## Usage
