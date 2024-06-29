@@ -38,7 +38,7 @@ A template for building OpenWrt with GitHub Actions
 - 没有其他修改了，使用 LEDE 源代码
 
 ## 备注
-原作者的编译依赖链接已失效，已替换成本仓库中的文件，链接地址：https://is.gd/openwrt_depends
+P3TERX的编译依赖链接已失效，已替换成本仓库中的文件，链接地址：https://is.gd/openwrt_depends
 
 ## Usage
 
