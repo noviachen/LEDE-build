@@ -37,6 +37,9 @@ A template for building OpenWrt with GitHub Actions
    - luci-app-zerotier  #ZeroTier内网穿透
 - 没有其他修改了，使用 LEDE 源代码
 
+## 备注
+原作者的编译依赖链接已失效，已替换成本仓库中的文件，链接地址：https://is.gd/openwrt_depends
+
 ## Usage
 
 - Click the [Use this template](https://github.com/P3TERX/Actions-OpenWrt/generate) button to create a new repository.
